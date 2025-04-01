@@ -1,0 +1,8 @@
+1. npm init
+2. Downoad dependencies
+	a. npm express - https://www.npmjs.com/package/express
+	b. npm i express
+	c. npm i body-parser  - https://www.npmjs.com/package/body-parser
+	d. npm i mysql
+3. create server.js file in your project
+4. RUN API - node server.js
