@@ -6,3 +6,9 @@
 	d. npm i mysql
 3. create server.js file in your project
 4. RUN API - node server.js
+
+5. npm i nodemon
+6. now run using nodemon server.js
+
+
+https://youtu.be/qGegLs3TPnw?t=2317
